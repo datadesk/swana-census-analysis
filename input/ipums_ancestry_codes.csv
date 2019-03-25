@@ -1,0 +1,211 @@
+ancestry_code,ancestry_name,mena,swana
+1,"Alsatian, Alsace-Lorraine",FALSE,FALSE
+3,Austrian,FALSE,FALSE
+5,Basque,FALSE,FALSE
+8,Belgian,FALSE,FALSE
+9,Flemish,FALSE,FALSE
+11,British,FALSE,FALSE
+12,British Isles,FALSE,FALSE
+20,Danish,FALSE,FALSE
+21,Dutch,FALSE,FALSE
+22,English,FALSE,FALSE
+24,Finnish,FALSE,FALSE
+26,French,FALSE,FALSE
+32,German,FALSE,FALSE
+40,Prussian,FALSE,FALSE
+46,Greek,FALSE,FALSE
+49,Icelander,FALSE,FALSE
+50,"Irish, various subheads,",FALSE,FALSE
+51,Italian,FALSE,FALSE
+68,Sicilian,FALSE,FALSE
+77,Luxemburger,FALSE,FALSE
+78,Maltese,FALSE,FALSE
+82,Norwegian,FALSE,FALSE
+84,Portuguese,FALSE,FALSE
+87,Scotch Irish,FALSE,FALSE
+88,Scottish,FALSE,FALSE
+89,Swedish,FALSE,FALSE
+91,Swiss,FALSE,FALSE
+97,Welsh,FALSE,FALSE
+98,"Scandinavian, Nordic",FALSE,FALSE
+100,Albanian,FALSE,FALSE
+102,Belorussian,FALSE,FALSE
+103,Bulgarian,FALSE,FALSE
+108,Cossack,FALSE,FALSE
+109,Croatian,FALSE,FALSE
+111,Czechoslovakian,FALSE,FALSE
+112,Bohemian,FALSE,FALSE
+115,Estonian,FALSE,FALSE
+120,Georgian,FALSE,TRUE
+122,Germans from Russia,FALSE,FALSE
+124,Rom,FALSE,FALSE
+125,Hungarian,FALSE,FALSE
+128,Latvian,FALSE,FALSE
+129,Lithuanian,FALSE,FALSE
+130,Macedonian,FALSE,FALSE
+142,Polish,FALSE,FALSE
+144,Romanian,FALSE,FALSE
+146,Moldavian,FALSE,FALSE
+148,Russian,FALSE,FALSE
+152,Serbian,FALSE,FALSE
+153,Slovak,FALSE,FALSE
+154,Slovene,FALSE,FALSE
+169,Uzbek,FALSE,FALSE
+171,Ukrainian,FALSE,FALSE
+176,Yugoslavian,FALSE,FALSE
+178,Slav,FALSE,FALSE
+179,Slavonian,FALSE,FALSE
+181,"Central European, nec",FALSE,FALSE
+183,"Northern European, nec",FALSE,FALSE
+185,"Southern European, nec",FALSE,FALSE
+187,"Western European, nec",FALSE,FALSE
+190,"Eastern European, nec",FALSE,FALSE
+195,"European, nec",FALSE,FALSE
+200,Spaniard,FALSE,FALSE
+210,Mexican,FALSE,FALSE
+211,Mexican American,FALSE,FALSE
+213,Chicano/Chicana,FALSE,FALSE
+218,Nuevo Mexicano,FALSE,FALSE
+221,Costa Rican,FALSE,FALSE
+222,Guatemalan,FALSE,FALSE
+223,Honduran,FALSE,FALSE
+224,Nicaraguan,FALSE,FALSE
+225,Panamanian,FALSE,FALSE
+226,Salvadoran,FALSE,FALSE
+227,Latin American,FALSE,FALSE
+231,Argentinean,FALSE,FALSE
+232,Bolivian,FALSE,FALSE
+233,Chilean,FALSE,FALSE
+234,Colombian,FALSE,FALSE
+235,Ecuadorian,FALSE,FALSE
+236,Paraguayan,FALSE,FALSE
+237,Peruvian,FALSE,FALSE
+238,Uruguayan,FALSE,FALSE
+239,Venezuelan,FALSE,FALSE
+248,South American,FALSE,FALSE
+261,Puerto Rican,FALSE,FALSE
+271,Cuban,FALSE,FALSE
+275,Dominican,FALSE,FALSE
+290,Hispanic,FALSE,FALSE
+291,Spanish,FALSE,FALSE
+295,Spanish American,FALSE,FALSE
+300,Bahamian,FALSE,FALSE
+301,Barbadian,FALSE,FALSE
+302,Belizean,FALSE,FALSE
+308,Jamaican,FALSE,FALSE
+310,Dutch West Indies,FALSE,FALSE
+314,Trinidadian/Tobagonian,FALSE,FALSE
+321,British Virgin Islander,FALSE,FALSE
+322,British West Indian,FALSE,FALSE
+324,Anguilla Islander,FALSE,FALSE
+329,Grenadian,FALSE,FALSE
+331,St Lucia Islander,FALSE,FALSE
+335,West Indian,FALSE,FALSE
+336,Haitian,FALSE,FALSE
+337,Other West Indian,FALSE,FALSE
+360,Brazilian,FALSE,FALSE
+370,Guyanese/British Guiana,FALSE,FALSE
+400,Algerian,TRUE,TRUE
+402,Egyptian,TRUE,TRUE
+404,Libyan,TRUE,TRUE
+406,Moroccan,TRUE,TRUE
+411,North African,TRUE,TRUE
+416,Iranian,TRUE,TRUE
+417,Iraqi,TRUE,TRUE
+419,Israeli,TRUE,TRUE
+421,Jordanian,TRUE,TRUE
+423,Kuwaiti,TRUE,TRUE
+425,Lebanese,TRUE,TRUE
+427,Saudi Arabian,TRUE,TRUE
+429,Syrian,TRUE,TRUE
+431,Armenian,FALSE,TRUE
+434,Turkish,FALSE,TRUE
+435,Yemeni,TRUE,TRUE
+442,Kurdish,TRUE,TRUE
+465,Palestinian,TRUE,TRUE
+482,Assyrian/Chaldean/Syriac,TRUE,TRUE
+490,Middle Eastern,TRUE,TRUE
+495,Arab,TRUE,TRUE
+496,Other Arab,TRUE,TRUE
+508,Cameroonian,FALSE,FALSE
+510,Cape Verdean,FALSE,FALSE
+515,Congolese,FALSE,FALSE
+522,Ethiopian,FALSE,FALSE
+523,Eritrean,FALSE,FALSE
+527,Gambian,FALSE,FALSE
+529,Ghanian,FALSE,FALSE
+530,Guinean,FALSE,FALSE
+534,Kenyan,FALSE,FALSE
+541,Liberian,FALSE,FALSE
+553,Nigerian,FALSE,FALSE
+564,Senegalese,FALSE,FALSE
+566,Sierra Leonean,FALSE,FALSE
+568,Somalian,FALSE,TRUE
+570,South African,FALSE,FALSE
+576,Sudanese,FALSE,TRUE
+586,Togo,FALSE,FALSE
+588,Ugandan,FALSE,FALSE
+593,Zimbabwean,FALSE,FALSE
+595,Other Subsaharan Africa,FALSE,FALSE
+598,West African,FALSE,FALSE
+599,African,FALSE,FALSE
+600,Afghan,FALSE,TRUE
+603,Bengali,FALSE,FALSE
+607,Bhutanese,FALSE,FALSE
+609,Nepali,FALSE,FALSE
+615,Asian Indian,FALSE,FALSE
+650,Punjabi,FALSE,FALSE
+680,Pakistani,FALSE,FALSE
+690,Sri Lankan,FALSE,FALSE
+700,Burmese,FALSE,FALSE
+703,Cambodian,FALSE,FALSE
+706,Chinese,FALSE,FALSE
+707,Cantonese,FALSE,FALSE
+712,Mongolian,FALSE,FALSE
+714,Tibetan,FALSE,FALSE
+716,Hong Kong,FALSE,FALSE
+720,Filipino,FALSE,FALSE
+730,Indonesian,FALSE,FALSE
+740,Japanese,FALSE,FALSE
+748,Okinawan,FALSE,FALSE
+750,Korean,FALSE,FALSE
+765,Laotian,FALSE,FALSE
+768,Hmong,FALSE,FALSE
+770,Malaysian,FALSE,FALSE
+776,Thai,FALSE,FALSE
+782,Taiwanese,FALSE,FALSE
+785,Vietnamese,FALSE,FALSE
+795,Asian,FALSE,FALSE
+796,Other Asian,FALSE,FALSE
+800,Australian,FALSE,FALSE
+803,New Zealander,FALSE,FALSE
+808,Polynesian,FALSE,FALSE
+811,Hawaiian,FALSE,FALSE
+814,Samoan,FALSE,FALSE
+815,Tongan,FALSE,FALSE
+820,Micronesian,FALSE,FALSE
+821,Guamanian,FALSE,FALSE
+822,Chamorro Islander,FALSE,FALSE
+824,Palauan,FALSE,FALSE
+825,Marshall Islander,FALSE,FALSE
+841,Fijian,FALSE,FALSE
+850,Pacific Islander,FALSE,FALSE
+870,Other Pacific,FALSE,FALSE
+900,Afro-American,FALSE,FALSE
+902,African-American,FALSE,FALSE
+913,Central American Indian,FALSE,FALSE
+914,South American Indian,FALSE,FALSE
+920,American Indian (all tribes),FALSE,FALSE
+922,Eskimo,FALSE,FALSE
+924,White/Caucasian,FALSE,FALSE
+931,Canadian,FALSE,FALSE
+935,French Canadian,FALSE,FALSE
+936,Acadian,FALSE,FALSE
+940,United States,FALSE,FALSE
+971,New Mexico,FALSE,FALSE
+983,Texas,FALSE,FALSE
+994,North American,FALSE,FALSE
+995,Mixture,FALSE,FALSE
+996,Uncodable,FALSE,FALSE
+998,Other,FALSE,FALSE
+999,Not Reported,FALSE,FALSE
